@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514560880593",
+    "project_id": "planty-6ace6",
+    "storage_bucket": "planty-6ace6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514560880593:android:2a9529e9790ff71416faf0",
+        "android_client_info": {
+          "package_name": "com.example.planty_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514560880593-8bgnvjvf52nhu103baa3utd08ar6e92h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planty_shop",
+            "certificate_hash": "07e99797012cbd276d0c3273e1b314d0ab8200e2"
+          }
+        },
+        {
+          "client_id": "514560880593-ar9lb3ath4c8esk13gvds75i0d00okf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR97Aq3zWHcOYSZmT-qkPgywHXz-ahtKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514560880593-ar9lb3ath4c8esk13gvds75i0d00okf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
